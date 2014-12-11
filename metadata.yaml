@@ -1,0 +1,9 @@
+name: cpanel
+summary: "Web Hosting Management panel."
+maintainer: Eugene Alekseev <ealekseev@clodo.ru>
+description: |
+The cPanel & WHM software package is an easy-to-use control panel that gives web hosts, and the website owners they serve, the ability to quickly and easily manage their servers and websites.
+categories: ["misc"]
+provides:
+  website:
+    interface: http
